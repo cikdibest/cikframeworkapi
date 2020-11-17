@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CikFrameworkApi", "CikFrameworkApi\CikFrameworkApi.csproj", "{DF687B74-0584-46A8-82AF-55AA628560E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CikFrameworkApi.Tests", "CikFrameworkApi.Tests\CikFrameworkApi.Tests\CikFrameworkApi.Tests.csproj", "{7CC211F9-BF2E-4A0B-8CEB-877E9F3CF30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF687B74-0584-46A8-82AF-55AA628560E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF687B74-0584-46A8-82AF-55AA628560E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF687B74-0584-46A8-82AF-55AA628560E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF687B74-0584-46A8-82AF-55AA628560E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC211F9-BF2E-4A0B-8CEB-877E9F3CF30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC211F9-BF2E-4A0B-8CEB-877E9F3CF30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC211F9-BF2E-4A0B-8CEB-877E9F3CF30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC211F9-BF2E-4A0B-8CEB-877E9F3CF30D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D91835A1-DC1C-47CE-B70D-B1443C0473A8}
+	EndGlobalSection
+EndGlobal
